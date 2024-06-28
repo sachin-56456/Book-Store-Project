@@ -1,4 +1,4 @@
-This is a Book Store project. Where we can add , delete , update books with books name & price.
+This is a Book Store Management Web Application. Where we can add , delete , update books with books name & price.
 Technologies are used:
 1. Java
 2. Spring Boot
